@@ -24,7 +24,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'solr_wrapper'
   s.add_development_dependency 'engine_cart'
   s.add_development_dependency 'webdrivers', '~> 3.0'
-  s.add_development_dependency 'selenium-webdriver', '>= 3.13.1'
+  #s.add_development_dependency 'selenium-webdriver', '>= 3.13.1'
   s.add_development_dependency 'byebug'
   s.add_development_dependency 'rubocop', '~> 0.64.0'
   s.add_development_dependency "rubocop-rspec", '~> 1.8'
